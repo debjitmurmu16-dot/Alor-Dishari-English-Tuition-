@@ -1,0 +1,6 @@
+{
+  "name": "Alor Dishari",
+  "description": "Official educational companion app for Alor Dishari English Tuition by Bhajahari Gorai — Classes V to XII courses, mentorship, gallery, admission enquiry via WhatsApp, phone calls, and Google Maps location.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

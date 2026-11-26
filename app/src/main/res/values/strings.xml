@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Alor Dishari</string>
+    <string name="institution_full_name">ALOR DISHARI ENGLISH TUITION</string>
+    <string name="institution_short_name">Alor Dishari English Tuition</string>
+    <string name="institution_tagline">Start with a Dream, Finish with a Future.</string>
+    <string name="classes_range_label">Classes V – XII</string>
+    <string name="teacher_name">Bhajahari Gorai</string>
+    <string name="teacher_role">Lead Educator &amp; English Mentor</string>
+    <string name="phone_primary">8145614076</string>
+    <string name="phone_secondary">7908523487</string>
+    <string name="phone_primary_display">+91 81456 14076</string>
+    <string name="phone_secondary_display">+91 79085 23487</string>
+
+    <!-- Navigation Labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_courses">Courses</string>
+    <string name="nav_mentor">Mentor</string>
+    <string name="nav_gallery">Gallery</string>
+    <string name="nav_contact">Contact</string>
+    <string name="menu_title">Quick Navigation</string>
+    <string name="menu_subtitle">Jump directly to any section</string>
+
+    <!-- Actions & CTAs -->
+    <string name="action_whatsapp_enquiry">WhatsApp Enquiry</string>
+    <string name="action_call_now">Call Now</string>
+    <string name="action_explore_courses">Explore Courses</string>
+    <string name="action_open_google_maps">Open in Google Maps</string>
+    <string name="action_submit_enquiry">Send Enquiry on WhatsApp</string>
+    <string name="action_enquire_track">Enquire for This Track</string>
+    <string name="action_close">Close</string>
+    <string name="action_open_menu">Open navigation menu</string>
+
+    <!-- Section Headings -->
+    <string name="section_about_kicker">ABOUT THE INSTITUTION</string>
+    <string name="section_about_title">Guiding Every Learner Toward English Fluency</string>
+    <string name="section_features_kicker">SPECIAL FEATURES</string>
+    <string name="section_features_title">Built for Conceptual Clarity &amp; Exam Excellence</string>
+    <string name="section_why_us_kicker">WHY CHOOSE US</string>
+    <string name="section_why_us_title">A Structured Path from Class V to XII</string>
+    <string name="section_courses_kicker">ACADEMIC PROGRAMS</string>
+    <string name="section_courses_title">Structured English Tracks</string>
+    <string name="section_mentor_kicker">TEACHER PROFILE</string>
+    <string name="section_mentor_title">Meet Your Mentor</string>
+    <string name="section_gallery_kicker">LEARNING GALLERY</string>
+    <string name="section_gallery_title">Inside Our Study Environment</string>
+    <string name="section_contact_kicker">CONTACT &amp; ADMISSIONS</string>
+    <string name="section_contact_title">Admission Enquiry &amp; Directions</string>
+    <string name="section_maps_kicker">LOCATION</string>
+    <string name="section_maps_title">Find Us on Google Maps</string>
+
+    <!-- Form Strings -->
+    <string name="form_title">Admission Enquiry Form</string>
+    <string name="form_subtitle">Fill in the student details below to open a pre-filled WhatsApp enquiry directly with Bhajahari Gorai.</string>
+    <string name="form_student_name_label">Student Name</string>
+    <string name="form_student_name_placeholder">Enter student full name</string>
+    <string name="form_class_label">Select Class (V – XII)</string>
+    <string name="form_phone_label">Parent / Student Phone Number</string>
+    <string name="form_phone_placeholder">10-digit mobile number</string>
+    <string name="form_notes_label">Additional Message (Optional)</string>
+    <string name="form_notes_placeholder">e.g. Board name, preferred batch timings, or questions</string>
+    <string name="form_error_name">Please enter the student\'s name.</string>
+    <string name="form_error_phone">Please enter a valid 10-digit phone number.</string>
+    <string name="toast_unable_open_link">No app available to open this link.</string>
+
+    <!-- Accessibility Descriptions -->
+    <string name="cd_brand_emblem">Alor Dishari English Tuition academic crest</string>
+    <string name="cd_hero_banner">Alor Dishari English study hall illustration</string>
+    <string name="cd_teacher_illustration">Mentor Bhajahari Gorai guiding students in English</string>
+    <string name="cd_call_primary">Call primary number 8145614076</string>
+    <string name="cd_call_secondary">Call secondary number 7908523487</string>
+    <string name="cd_whatsapp">Open WhatsApp admission enquiry</string>
+    <string name="cd_google_maps">Open Alor Dishari location in Google Maps</string>
+    <string name="cd_close_dialog">Close preview</string>
+
+    <!-- Footer -->
+    <string name="footer_rights">Alor Dishari English Tuition • Classes V–XII</string>
+    <string name="footer_mentor_note">Guided by Bhajahari Gorai</string>
+</resources>
